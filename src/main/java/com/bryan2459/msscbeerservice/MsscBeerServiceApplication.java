@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MsscBeerServiceApplication {
 
-    //adding to git
+    //adding to git again
 
     public static void main(String[] args) {
         SpringApplication.run(MsscBeerServiceApplication.class, args);
